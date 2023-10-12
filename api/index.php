@@ -76,7 +76,7 @@
 				<button type="submit" onclick="play()" class="btn btn-primary btn-lg btn-block"> 解析播放 </button>
 				</div>		
 			    </div>					
-            
+       		<script src="https://cdn.dearxuan.com/website/live2d-widget/autoload.js"></script>     
 			<!-- 公告 -->
 			<div class="panel panel-default">
 			  <div class="panel-heading">
