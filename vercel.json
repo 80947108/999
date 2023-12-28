@@ -9,8 +9,5 @@
       "src": "/",
       "dest": "api/index.php"
     }
-  ],
-    "rewrites": [
-    { "source": "/(.*)", "destination": "/404.html" }
   ]
 }
