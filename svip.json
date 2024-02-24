@@ -1,6 +1,16 @@
 {
   "spider": "./YSC.jar;md5;abbb96e6409112492430dd6521d66df0",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://hyf999.eu.org/v4.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "车妹",
@@ -17,10 +27,10 @@
       "name": "小胡┃影视",
       "type": 1,
       "playerType": 1,
-      "api": "http://c.小胡.icu/api.php/provide/vod/"
+      "api": "http://bb.xzam.cn/api.php/provide/vod/"
     },
     {
-      "key": "有声小说吧",
+      "key": "影视车",
       "name": "🛩️影视车",
       "type": 3,
       "api": "csp_XYQHiker",
