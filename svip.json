@@ -6,7 +6,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://hyf999.eu.org/v4.txt",
+      "url": "https://live.125011.xyz/api/ipv4/txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
